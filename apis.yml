@@ -4,8 +4,7 @@ url: >-
 apis:
   - aid: owasp-api-security-project:owasp-api-security-project
     name: OWASP API Security Project
-    tags:
-      - API
+    tags: []
     humanURL: https://owasp.org/www-project-api-security/
     properties:
       - url: https://owasp.org/www-project-api-security/
@@ -16,8 +15,8 @@ apis:
       Programming Interfaces ...
 name: OWASP API Security Project
 tags:
-  - Security
   - Platform
+  - Security
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party

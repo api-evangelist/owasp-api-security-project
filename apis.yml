@@ -38,6 +38,10 @@ apis:
       - type: Reference
         url: https://owasp.org/API-Security/editions/2023/en/0x00-header/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/owasp-api-security-project-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/owasp-api-security-project-domain-security.yml
   - type: Website
     url: https://owasp.org/www-project-api-security/
   - type: Documentation

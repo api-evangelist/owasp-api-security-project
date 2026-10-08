@@ -64,6 +64,12 @@ apis:
       - type: Reference
         url: https://owasp.org/API-Security/editions/2023/en/0x00-header/
 common:
+  - type: Plans
+    url: plans/owasp-api-security-project-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/owasp-api-security-project-rate-limits.yml
+  - type: FinOps
+    url: finops/owasp-api-security-project-finops.yml
   - type: VulnerabilityDisclosure
     url: security/owasp-api-security-project-vulnerability-disclosure.yml
   - type: DomainSecurity

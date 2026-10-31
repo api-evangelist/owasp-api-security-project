@@ -1,4 +1,4 @@
-# OWASP API Security Project (owasp-api-security-project)
+# OWASP API Security Project
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,39 +66,101 @@
 
 The OWASP API Security Project focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces. The project produces and maintains the OWASP API Security Top 10, a community-driven list of the most critical API security risks for developers, architects, and security professionals.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/owasp-api-security-project/refs/heads/main/apis.yml)
+**Areas:** Security · Standards · OWASP
 
-## Scope
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+## OWASP API Security Project on APIs.io
 
-## Tags:
- - Security, Standards, OWASP
+Everything profiled for OWASP API Security Project is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/owasp-api-security-project/](https://apis.io/providers/owasp-api-security-project/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
-- **Created:** 2025-01-08
-- **Modified:** 2026-04-28
+### APIs (1)
 
-## APIs
+- [OWASP API Security Project](https://apis.io/apis/owasp-api-security-project/owasp-api-security-project/) — The OWASP API Security Project produces and maintains the OWASP API Security Top 10, a list of the most critical API security risks. It provides guidance,…
 
-### OWASP API Security Project
-The OWASP API Security Project produces and maintains the OWASP API Security Top 10, a list of the most critical API security risks. It provides guidance, tools, and references to help organizations identify and address API-specific vulnerabilities such as broken object level authorization, broken authentication, and excessive data exposure.
+### Published properties
 
-**Human URL:** [https://owasp.org/www-project-api-security/](https://owasp.org/www-project-api-security/)
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Tags:
- - Security, Standards
+#### Security (2)
 
-#### Properties
-- [Documentation](https://owasp.org/www-project-api-security/)
-- [Reference](https://owasp.org/API-Security/editions/2023/en/0x00-header/)
+Authentication, trust centre, and vulnerability disclosure.
 
-## Common Properties
+- [Owasp Api Security Project Domain Security](https://apis.io/security/owasp-api-security-project/owasp-api-security-project-domain-security/)
+- [Owasp Api Security Project Vulnerability Disclosure](https://apis.io/security/owasp-api-security-project/owasp-api-security-project-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Owasp Api Security Project Plans Pricing](https://apis.io/plans/owasp-api-security-project/owasp-api-security-project-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Owasp Api Security Project Rate Limits](https://apis.io/rate-limits/owasp-api-security-project/owasp-api-security-project-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Owasp Api Security Project Finops](https://apis.io/finops/owasp-api-security-project/owasp-api-security-project-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
 - [Website](https://owasp.org/www-project-api-security/)
 - [Documentation](https://owasp.org/www-project-api-security/)
-- [GitHub](https://github.com/OWASP/API-Security)
 
-## Maintainers
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+## API Evangelist rating
+
+**Kin Score 11.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/owasp-api-security-project/](https://apis.io/providers/owasp-api-security-project/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for OWASP API Security Project: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/owasp-api-security-project/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
